@@ -20,7 +20,7 @@ The design was then extruded by 2 mm and exported as an STL file.
 
 ## Design
 
-![Cat Keychain](Cat Keychain.png)
+![Cat Keychain](Cat%20Keychain.png)
 
 ## Design Dimensions
 
