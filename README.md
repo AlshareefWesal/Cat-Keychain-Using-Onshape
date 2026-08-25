@@ -31,7 +31,7 @@ The cat keychain was successfully created in Onshape, extruded to 2 mm, and expo
 
 ## Onshape Design
 
-https://cad.onshape.com/documents/c3c73ee7a6361375a396a2e0/w/e5c9317ad328351327be35a6/e/b6adea29aaf90d2ca947fc14?renderMode=0&uiState=6a8dee395bcee64c4928f73e
+[View Design](https://cad.onshape.com/documents/c3c73ee7a6361375a396a2e0/w/e5c9317ad328351327be35a6/e/b6adea29aaf90d2ca947fc14)
 
 ## Author
 
