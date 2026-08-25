@@ -31,7 +31,10 @@ The design was then extruded by 2 mm and exported as an STL file.
 
 ## Onshape Design
 
-[View Cat Keychain Design](https://cad.onshape.com/documents/c3c73ee7a6361375a396a2e0/w/e5c9317ad328351327be35a6/e/b6adea29aaf90d2ca947fc14)
+Copy and open the following link in a browser:
+
+https://cad.onshape.com/documents/c3c73ee7a6361375a396a2e0/w/e5c9317ad328351327be35a6/e/b6adea29aaf90d2ca947fc14
+
 
 ## Result
 
